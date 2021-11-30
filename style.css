@@ -1,0 +1,9 @@
+#listContainer {
+  border-radius: 20px;
+  border: 10px solid #8d0000;
+  width: 20vw;
+  height: 40vh;
+  overflow-y: scroll;
+  margin: 10vh auto;
+  font-size: 1.5rem;
+}
